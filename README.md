@@ -15,5 +15,5 @@ O projeto tem como objetivo criar um banco de dados para um sistema de bibliotec
 # Links
 ###### Modelo ER: https://github.com/GuilhermeAngelo/Bd_Biblioteca/blob/003b420040134e6a726a4280d35406f9f20cb4ea/docs/MODELO_ER.md
 ###### Modelo R:  https://github.com/GuilhermeAngelo/Bd_Biblioteca/blob/ef6b35cb640e3ef27b6c8fa97c455bbb7033886c/docs/MODELO_R.md
-###### Requsitos: https://github.com/GuilhermeAngelo/Bd_Biblioteca/blob/003b420040134e6a726a4280d35406f9f20cb4ea/docs/Requisitos.md
+###### Requsitos: https://github.com/GuilhermeAngelo/Bd_Biblioteca/blob/89e5739d719c9164c914ee7f33f257e414e6fb1a/docs/Requisitos.md
 ###### Dicionário de dados: https://github.com/GuilhermeAngelo/Bd_Biblioteca/blob/a4317c52d924d0ea52768bb28031bf01a829359c/docs/DICIONARIO_DADOS.md
