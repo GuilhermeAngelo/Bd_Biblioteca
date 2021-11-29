@@ -17,6 +17,6 @@ Entidades: Biblioteca, Livro, categoria, Funcionario, Mensagem, Usuário, Autent
 ###### 13 - O usuário só pode realizar um emprestimo se tiver autenticação no sistema.
 ###### 14 - o sistema deve ser realizar o cadastro do funcionario(os). A biblioteca tem vários funcionários.
 ###### 15 - O funcionário possui código, nome, função, salário, Username, email, senha, cpf. 
-###### 16 - O funcionário é responsável por manter as obras, os impréstimos e os usuários.
+###### 16 - O funcionário é responsável por manter as obras, os empréstimos e os usuários.
 ###### 17 - O funcionário recebe/envia mensagem para o usuário informando que o livro foi recebido.Na mensagem(entidade) tem o username de quem enviou e a mensagem.
 ###### 18 - O usuário também envia/recebe uma mensagem informando que recebeu o livro emprestado.
